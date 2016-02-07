@@ -1,0 +1,27 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3043791, 2015-06-17T05:25:25-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: DINMittelEFEL-Regular by Elsner+Flake
+ * URL: http://www.myfonts.com/fonts/ef/dinmittel/ef-regular/
+ * Copyright: Copyright of design and/or digital redesign and Trademark by Veronika Elsner, Guenther Flake GbR or its licensors. Copyright of digital font software by Veronika Elsner, Guenther Flake GbR. This font software may not be reproduced, modified, decoded, disc
+ * Licensed pageviews: 10,000
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3043791
+ * 
+ * © 2015 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/2e71cf");
+
+
+@font-face {font-family: 'DINMittelEFEL-Regular';src: url('webfonts/2E71CF_0_0.eot');src: url('webfonts/2E71CF_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2E71CF_0_0.woff2') format('woff2'),url('webfonts/2E71CF_0_0.woff') format('woff'),url('webfonts/2E71CF_0_0.ttf') format('truetype');}

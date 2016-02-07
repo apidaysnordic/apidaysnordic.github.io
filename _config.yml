@@ -1,0 +1,2 @@
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.md, CNAME, package.json, grunt.js, Gruntfile.js, node_modules, .gitignore]

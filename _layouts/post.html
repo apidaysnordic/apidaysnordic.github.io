@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+
+<!--[if !IE]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<!--[if IE 6 ]><html lang="en-US" class="ie ie6"><![endif]-->
+<!--[if IE 7 ]><html lang="en-US" class="ie ie7"><![endif]-->
+<!--[if IE 8 ]><html lang="en-US" class="ie ie8"><![endif]-->
+<head>
+    <title>{{ page.title }}</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="description" content="API Days NZ" />
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="shortcut icon" href="/images/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="/css/main.css" />
+</head>
+<body class="BlogEntry" id="page-top" data-spy="scroll" data-target=".sidebar" data-offset="60">
+
+{% assign home = "link " %}
+{% assign news = "current  active" %}
+{% include navigation.html %}
+
+<header class="header">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+
+                <h2 class="brand-heading">
+                    <a href="/"><img src="/images/logo.png" alt="API Days NZ"></a>
+                    <span class="sr-only">API Days NZ</span>
+                </h2>
+
+                <h1>{{ page.title }}</h1>
+
+                <h2>{{ page.talk }}</h2>
+
+            </div>
+        </div>
+    </div>
+</header>
+
+<section class="container-fluid content-section">
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+
+            <div id="BlogContent" class="typography">
+
+                <div class="blogEntry">
+                    <p class="authorDate"><small class="text-muted">{{ page.date | date: "%-d %B %Y" }} &ndash; Posted by {{ page.author }}</small></p>
+
+                    {{ content }}
+
+                </div>
+            </div>
+
+            <button id="back-button" class="btn btn-default btn-lg" type="submit">Back</button>
+        </div>
+    </div>
+
+
+
+</section>
+
+<aside class="sidebar" data-spy="affix" data-offset-top="60" data-offset-bottom="200">
+
+</aside>
+
+{% include organisers.html %}
+
+{% include footer.html %}
+
+<script src="//cdn.jsdelivr.net/g/jquery,jquery.easing"></script>
+<script type="text/javascript" src="/js/app.js"></script>
+
+</body>
+</html>
