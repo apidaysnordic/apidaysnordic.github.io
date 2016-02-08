@@ -1,19 +1,15 @@
 ---
-title: MC - Mehdi Medjaoui
+title: First Keynote confirmed - Andres Kütt from Estonia
 layout: post
-author: Gareth Evans
+author: Jarkko Moilanen
 ---
 
-We are delighted that Mehdi will be joining us at our first API days conference in NZ!
+We are delighted that Andres will be joining us at our first Scandic API days conference!
+Andres will address architecturing a nation, which offers strategic view to building economically and 
+socionomically significant systems. 
 
 ## Bio:
 
-Engineer and tech event organizer.
-
-Founder of OAuth.io and APIdays.io conferences
-
-I practice BJJ , I play poker, dance Salsa and currently learning Sailing, Skydiving and riding Motorbikes.
-
-Writing on my free time a book entitled "Man Versus Software : The great Substituion"
-
-I want to make my own revolution, one mind at a time.
+Andres has been building software for living since 1993 when he turned a passion into a job and started working as a programmer. 
+Since then he has grown into roles involving management of people and, for the past ten years, management of complex information systems. 
+The latter is supported by his studies at the System Design and Management programme at the MIT. 
