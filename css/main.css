@@ -8406,3 +8406,8 @@ ul.share-buttons li{
   margin-right:10px;
 }
 
+#share-icons {
+	float:right;
+	width: 250px;
+	border-left: solid 1px #eee;
+}
