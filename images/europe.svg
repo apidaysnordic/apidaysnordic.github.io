@@ -30,18 +30,6 @@
      id="defs3051">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient7778">
-      <stop
-         style="stop-color:#5895c4;stop-opacity:1;"
-         offset="0"
-         id="stop7780" />
-      <stop
-         style="stop-color:#5895c4;stop-opacity:0;"
-         offset="1"
-         id="stop7782" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
        id="linearGradient7770">
       <stop
          style="stop-color:#5895c4;stop-opacity:1;"
@@ -52,105 +40,6 @@
          offset="1"
          id="stop7774" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient7762">
-      <stop
-         style="stop-color:#5895c4;stop-opacity:1;"
-         offset="0"
-         id="stop7764" />
-      <stop
-         style="stop-color:#5895c4;stop-opacity:0;"
-         offset="1"
-         id="stop7766" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient7754">
-      <stop
-         style="stop-color:#5895c4;stop-opacity:1;"
-         offset="0"
-         id="stop7756" />
-      <stop
-         style="stop-color:#5895c4;stop-opacity:0;"
-         offset="1"
-         id="stop7758" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient7746">
-      <stop
-         style="stop-color:#5895c4;stop-opacity:1;"
-         offset="0"
-         id="stop7748" />
-      <stop
-         style="stop-color:#5895c4;stop-opacity:0;"
-         offset="1"
-         id="stop7750" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient7746"
-       id="linearGradient7752"
-       x1="579.60313"
-       y1="607.68409"
-       x2="806.26581"
-       y2="607.68409"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient7754"
-       id="linearGradient7760"
-       x1="592.0939"
-       y1="503.1426"
-       x2="710.57077"
-       y2="503.1426"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient7762"
-       id="linearGradient7768"
-       x1="628.49831"
-       y1="771.99347"
-       x2="863.23677"
-       y2="771.99347"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient7770"
-       id="linearGradient7776"
-       x1="637.65695"
-       y1="635.78949"
-       x2="675.86317"
-       y2="635.78949"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient7778"
-       id="linearGradient7784"
-       x1="630.76901"
-       y1="734.95537"
-       x2="665.09137"
-       y2="734.95537"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient7778"
-       id="linearGradient7786"
-       x1="555.65264"
-       y1="654.20312"
-       x2="673.12994"
-       y2="654.20312"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient7778"
-       id="linearGradient7788"
-       x1="581.02936"
-       y1="710.57669"
-       x2="658.77925"
-       y2="710.57669"
-       gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7770"
@@ -178,7 +67,7 @@
      showgrid="false"
      inkscape:zoom="1.0489424"
      inkscape:cx="452.28446"
-     inkscape:cy="308.79915"
+     inkscape:cy="461.33374"
      inkscape:window-x="2039"
      inkscape:window-y="82"
      inkscape:window-maximized="0"
@@ -18961,47 +18850,5 @@
            style="fill:#12b3ea;fill-opacity:1" />
       </g>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="267.88885"
-       y="106.607"
-       id="text23837"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan23839"
-         x="267.88885"
-         y="106.607"
-         style="fill:#ffffff;fill-opacity:1;font-size:14px">Automation with APIs and </tspan><tspan
-         sodipodi:role="line"
-         x="267.88885"
-         y="122.857"
-         id="tspan23841"
-         style="fill:#ffffff;fill-opacity:1;font-size:14px">DevOps (APIOps)</tspan><tspan
-         sodipodi:role="line"
-         x="267.88885"
-         y="139.10699"
-         id="tspan23843"
-         style="fill:#ffffff;fill-opacity:1;font-size:14px" /><tspan
-         sodipodi:role="line"
-         x="267.88885"
-         y="155.35699"
-         id="tspan23845"
-         style="fill:#ffffff;fill-opacity:1;font-size:14px">Internet of BIG things</tspan><tspan
-         sodipodi:role="line"
-         x="267.88885"
-         y="171.60699"
-         id="tspan23847"
-         style="fill:#ffffff;fill-opacity:1;font-size:14px" /><tspan
-         sodipodi:role="line"
-         x="267.88885"
-         y="187.85699"
-         id="tspan23849"
-         style="fill:#ffffff;fill-opacity:1;font-size:14px">Government driven API</tspan><tspan
-         sodipodi:role="line"
-         x="267.88885"
-         y="204.10699"
-         id="tspan23851"
-         style="fill:#ffffff;fill-opacity:1;font-size:14px">Platforms</tspan></text>
   </g>
 </svg>
