@@ -870,14 +870,14 @@ h3 {
 }
 
 a {
-    color: #f46f03;
+    color: #4c102d;
     transition: all 0.2s ease-in-out;
 }
 
 a:hover,
 a:focus {
     text-decoration: underline;
-    color: #f46f03;
+    color: #4c102d;
 }
 
 .light {
