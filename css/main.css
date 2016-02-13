@@ -871,14 +871,14 @@ h3 {
 
 a {
 /*    color: #4c102d;*/
-    color: #04749f;
+    color: #4c102d;
     transition: all 0.2s ease-in-out;
 }
 
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #04749f;
+    color: #4c102d;
 }
 
 .light {
