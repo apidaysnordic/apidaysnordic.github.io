@@ -8409,7 +8409,8 @@ ul.share-buttons li{
 
 #share-icons {
 	float:right;
-	width: 250px;
+	min-width:100px;
+	max-width: 250px;
 	border-left: solid 1px #eee;
 	margin-left:30px;
 	padding-left:20px;
