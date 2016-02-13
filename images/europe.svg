@@ -40,9 +40,9 @@
      inkscape:window-height="933"
      id="namedview3049"
      showgrid="false"
-     inkscape:zoom="0.5244712"
-     inkscape:cx="732.32054"
-     inkscape:cy="213.00168"
+     inkscape:zoom="1.0489424"
+     inkscape:cx="620.07251"
+     inkscape:cy="499.46739"
      inkscape:window-x="2039"
      inkscape:window-y="82"
      inkscape:window-maximized="0"
@@ -18821,5 +18821,47 @@
            style="fill:#12b3ea;fill-opacity:1" />
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="267.88885"
+       y="106.607"
+       id="text23837"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan23839"
+         x="267.88885"
+         y="106.607"
+         style="fill:#12b3ea;fill-opacity:1">Automation with APIs and </tspan><tspan
+         sodipodi:role="line"
+         x="267.88885"
+         y="122.857"
+         id="tspan23841"
+         style="fill:#12b3ea;fill-opacity:1">DevOps (APIOps)</tspan><tspan
+         sodipodi:role="line"
+         x="267.88885"
+         y="139.10699"
+         id="tspan23843"
+         style="fill:#12b3ea;fill-opacity:1" /><tspan
+         sodipodi:role="line"
+         x="267.88885"
+         y="155.35699"
+         id="tspan23845"
+         style="fill:#12b3ea;fill-opacity:1">Internet of BIG things</tspan><tspan
+         sodipodi:role="line"
+         x="267.88885"
+         y="171.60699"
+         id="tspan23847"
+         style="fill:#12b3ea;fill-opacity:1" /><tspan
+         sodipodi:role="line"
+         x="267.88885"
+         y="187.85699"
+         id="tspan23849"
+         style="fill:#12b3ea;fill-opacity:1">Government driven API</tspan><tspan
+         sodipodi:role="line"
+         x="267.88885"
+         y="204.10699"
+         id="tspan23851"
+         style="fill:#12b3ea;fill-opacity:1">Platforms</tspan></text>
   </g>
 </svg>
