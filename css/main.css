@@ -12,6 +12,17 @@ body {
     margin: 0;
 }
 
+.text-hilite {
+	float: right; 
+	margin-left: 15px; 
+	width: 150px; 
+	font-size: 18px; 
+	line-height: 18px; 
+	color: #655c9d; 
+	margin-top: -12px; 
+}
+
+
 article,
 aside,
 details,
