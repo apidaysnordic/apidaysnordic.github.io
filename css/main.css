@@ -33,7 +33,8 @@ body {
 }
 
 .text-hilite div {
-	float:left;
+	float:right;
+	display:block;
 }
 
 article,
