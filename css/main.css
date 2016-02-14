@@ -32,6 +32,10 @@ body {
 	margin: 30px;
 }
 
+.text-hilite div {
+	float:left;
+}
+
 article,
 aside,
 details,
