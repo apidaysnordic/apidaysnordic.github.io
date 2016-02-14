@@ -14,9 +14,10 @@ body {
 
 .text-hilite {
 	margin:20px;
+	padding:30px;
 	margin-left: 30px; 
 	width: 60%;
-	min-height: 350px;
+	min-height: 380px;
 	background-color:#fff; 
 	font-size: 28px; 
 	line-height: 30px; 
