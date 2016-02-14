@@ -14,10 +14,10 @@ body {
 
 .text-hilite {
 	float: right; 
-	margin-left: 15px; 
+	margin-left: 20px; 
 	width: 150px; 
 	font-size: 28px; 
-	line-height: 18px; 
+	line-height: 28px; 
 	color: #eee; 
 	margin-top: -12px; 
 }
