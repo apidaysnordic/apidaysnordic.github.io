@@ -25,16 +25,18 @@ body {
 	color: #04749f; 
 	margin-top: 10px;
 	border: solid 1px #ddd; 
+	display:table;
 }
 
 .text-hilite img {
-	float:right;
-	margin: 30px;
+	vertaical-align: middle;
+	margin-right: 30px;
+	display:table-cell;
 }
 
-.text-hilite div {
-	float:right;
-	display:block;
+.text-hilite span {
+	vertical-align: middle;
+    	display: table-cell;
 }
 
 article,
