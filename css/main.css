@@ -13,15 +13,19 @@ body {
 }
 
 .text-hilite {
-	float: right; 
 	margin-left: 30px; 
 	width: 200px; 
 	font-size: 28px; 
 	line-height: 30px; 
 	color: #04749f; 
-	margin-top: -12px; 
+	margin-top: 10px;
+	border: solid 1px #ddd; 
 }
 
+.text-hilite img {
+	float:right;
+	margin: 30px;
+}
 
 article,
 aside,
