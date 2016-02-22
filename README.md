@@ -1,12 +1,12 @@
-# API Days Scandic Website 
+# API Days Nordic Website 
 
-Running Jekyll this website is generated automatically at the URL apidaysscandic.github.io.
+Running Jekyll this website is generated automatically at the URL apidaysnordic.github.io.
 All commits will be continuously deployed to the site.
 Do not commit the "_site" folder (this is ignored in .gitignore).
 GiHub pages automatically generates the site on every commit.
 
-* Github.io provides content via https://apidaysscandic.github.io/
-* (TODO) To view the site go to http(s)://scandic.apidays.io
+* Github.io provides content via https://apidaysnordic.github.io/
+
 
 # Building and running
 Make sure you have ruby installed. Run
