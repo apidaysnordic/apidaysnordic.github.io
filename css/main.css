@@ -8279,7 +8279,7 @@ header h1 {
 
 
 @media (min-width: 768px) {
-    #organisers:before, #sponsors-gold:before {
+    #organisers:before, #sponsors-gold:before, #sponsors-platinum:before {
         top: -22.62857px;
         font-size: 24px;
     }
