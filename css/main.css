@@ -8237,7 +8237,7 @@ header h1 {
     overflow: visible;
 }
 
-#organisers:before, #sponsors-gold:before, #sponsors-silver:before,
+#organisers:before, #sponsors-platinum:before, #sponsors-gold:before, #sponsors-silver:before,
 #sponsors-bronze:before, #sponsors-media:before {
     position: absolute;
     top: -15.08571px;
