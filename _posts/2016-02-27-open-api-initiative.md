@@ -12,4 +12,4 @@ The Open API Initiative (OAI) was created by a consortium of forward-looking ind
  
 APIs form the connecting glue between modern applications. Nearly every application uses APIs to connect with corporate data sources, third party data services or other applications. Creating an open description format for API services that is vendor neutral, portable and open is critical to accelerating the vision of a truly connected world. 
 
-Read more from https://openapis.org/
+Read more from [https://openapis.org/](https://openapis.org/)
