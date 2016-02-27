@@ -8456,6 +8456,8 @@ ul.share-buttons li{
 	padding-left:20px;
 }
 
-.entry-general {
+.entry-general a,
+.entry-general a:visited {
 	color: #3ca2c0;
 }
+
