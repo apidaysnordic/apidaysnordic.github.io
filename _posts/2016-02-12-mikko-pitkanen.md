@@ -1,12 +1,15 @@
 ---
-title: X-Road integration best practices - Mikko Pitkänen
+title: Retrofitting APIs with X-Road features - Mikko Pitkänen
 layout: post
 author: Jarkko Moilanen
 ---
 
-Mikko will address issues such: service integration to X-Road and REST gateway development. 
+Mikko will address issues such retrofitting APIs with XRoad features enables for efficient joining of production services to X-Road.
+OSS tools for robust retrofits are discussed.
 
-## Mikko Pitkänen, IT Architect at Finnish Patent and Registration Office:
+## Mikko Pitkänen, National Board of Patents and Registration:
+
+Dr. Sc. Tech. Mikko Pitkänen has worked with distributed systems and OSS for over a decade, he remains hands-on and eager to delve into details.
 
 PR and software professional with solid hands on experience in open source software since 2003, nowadays, a capable mix of IPR professional and a practical devops guy with strategic thinking mindset.
 
