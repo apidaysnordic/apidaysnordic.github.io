@@ -7297,7 +7297,7 @@ background-repeat: no-repeat;
 }
 
 .brand-heading img {
-    width: 100%;
+/*    width: 100%;*/
     display: block;
     text-align: center;
     margin-top: 70px;
