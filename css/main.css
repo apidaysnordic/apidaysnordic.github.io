@@ -8053,6 +8053,11 @@ header h1 {
     margin-bottom:20px;
 }
 
+#workshops a,
+#workshops a:visited {
+	color: #3ca2c0;
+}
+
 @media (min-width: 480px) {
 
 }
