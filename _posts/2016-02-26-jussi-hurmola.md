@@ -1,5 +1,5 @@
 ---
-title: EduCloud Alliance  - Jussi Hurmola
+title: Open APIs in education to disrupt the ways to offer and consume learning - Jussi Hurmola
 layout: post
 author: Jarkko Moilanen
 ---
