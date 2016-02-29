@@ -7687,6 +7687,11 @@ background-repeat: no-repeat;
     border-bottom: none;
 }
 
+.blogSummary a,
+.blogSummary a:visited {
+    color: #3ca2c0;
+}
+
 .section-number {
     font-weight: 500;
     margin: 0 0 -1em;
