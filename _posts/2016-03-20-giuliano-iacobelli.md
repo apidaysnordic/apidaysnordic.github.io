@@ -16,4 +16,6 @@ We are not quite there, but the future in which most people will be empowered to
 
 Software engineer who get things done and loves to create web products. Full stack entrepreneur changing how software is built on the web with #500Strong company Stamplay. Constant Curious and lecturer at Roma Tre University.
 
-Back in the days I ran my web agency while at university, spent a few years as a consultant in big enterprise and project manager in telcos and later jumped in the digital startups world. Bootstrapped one of the largest tech community, worked with US Embassy in Italy to organize tech events and now I’m President of InnovactionLab Alumni fostering entrepreneurship among young people.
+Back in the days I ran my web agency while at university, spent a few years as a consultant in big enterprise and project manager in telcos and later jumped in the digital startups world. 
+
+Bootstrapped one of the largest tech community, worked with US Embassy in Italy to organize tech events and now I’m President of InnovactionLab Alumni fostering entrepreneurship among young people.
