@@ -1,5 +1,5 @@
 ---
-title: API: Lego for developers - Giuliano Iacobelli
+title: API - Lego for developers - Giuliano Iacobelli
 layout: post
 author: Jarkko Moilanen
 ---
@@ -12,7 +12,7 @@ That act of assembling the components into a new whole though, still happens lar
 
 We are not quite there, but the future in which most people will be empowered to build software is arriving and APIs are the key enablers for this.
 
-## Giuliano Iacobelli, CEO & Co-Founder at Stamplay
+## Giuliano Iacobelli, Co-Founder at Stamplay
 
 Software engineer who get things done and loves to create web products. Full stack entrepreneur changing how software is built on the web with #500Strong company Stamplay. Constant Curious and lecturer at Roma Tre University.
 
