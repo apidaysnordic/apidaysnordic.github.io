@@ -1,5 +1,5 @@
 ---
-title: API: Lego for developers - Giuliano Iacobelli
+title: API - Lego for developers - Giuliano Iacobelli
 layout: post
 author: Jarkko Moilanen
 ---
