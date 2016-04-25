@@ -1,5 +1,5 @@
 ---
-title: Introducing Babel: A new interface description language – Ken Elkabany
+title: Introducing Babel - A new interface description language – Ken Elkabany
 layout: post
 author: Jarkko Moilanen
 ---
