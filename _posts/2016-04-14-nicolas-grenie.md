@@ -11,7 +11,7 @@ How could you be part of the bot revolution as a company? How should you apply t
 
 In this talk we will cover the different aspects of bot building using APIs, the recommended tools as well as best practices for API designers.
 
-## Mikael Puittinen, SC5 Online Ltd
+## Nicolas Grenié, 3Scale
 
 Nicolas is a Hacker in Residence at 3scale living between Barcelona and San Francisco. Nicolas built his first website in 2000 using Microsoft Word, and since them did not stop learning about programming. This "API freak" likes to try new languages and APIs all the time. He has built many integrations for Slack or Amazon Echo.
 He runs many meetups in Barcelona around APIs, Meteor and Entrepreneurship.
