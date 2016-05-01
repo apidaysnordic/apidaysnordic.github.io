@@ -10,7 +10,7 @@ The Apinf.io platform has been built using or integrating open source components
 
 Come and hear about our experiences on building open API management platform and applying the open development process!
 
-## Taija Bröklund: Product owner of APInf.io, pioneering open development in open API management
+## Taija Björklund: Product owner of APInf.io, pioneering open development in open API management
 
 I am an R&D specialist from the IT industry with working experience predominantly from localisation. A specialist in cross-cultural communication by education. Have worked in multicultural teams with co-workers and partners all across the globe. Strong linguistic background: fluent both in Russian and English. 12+ years of experience as an R&D specialist. First-hand experience of Agile product development. Experience from coordinating usability testing projects both in Finland and in Asia and Africa. Experience from market research, partner search, clarification of trade mark and certification needs, translation and interpretation.
 
