@@ -14,6 +14,8 @@ Leverate APIs as an innovation platform. Most digital services rely on existing 
 
 Leverage cloud to focus investements on things that matter. Leave the IT infrastructure and service heavy lifting to cloud vendors. Build your solutions on the enterprise grade building blocks provided by cloud vendors (e.g. compute, storage, databases, IoT, Big Data). Cloud not only enables quick prototyping & innnovation but also provides the durability and reliability required by production grade services.
 
-## Dimitri van Hees, Apiwise
+## Mikael Puittinen, sC5 Online
 
 A business technology professional with over 15 years of experience in helping customers achieve a competitive edge using innovative IT solutions. Passionate cloud computing, APIs and Data Science. Currently working at SC5 as a senior solutions architect with the responsibility of developing the cloud and industrial internet offerings.
+
+
