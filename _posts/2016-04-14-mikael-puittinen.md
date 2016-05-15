@@ -16,6 +16,6 @@ Leverage cloud to focus investements on things that matter. Leave the IT infrast
 
 ## Mikael Puittinen, SC5 Online
 
-A business technology professional with over 15 years of experience in helping customers achieve a competitive edge using innovative IT solutions. Passionate cloud computing, APIs and Data Science. Currently working at SC5 as a senior solutions architect with the responsibility of developing the cloud and industrial internet offerings.
+A business technology professional with over 15 years of experience in helping customers achieve a competitive edge using innovative IT solutions. Passionate cloud computing, APIs and Data Science. Mikael is currently CTO at SC5 Online.
 
 
