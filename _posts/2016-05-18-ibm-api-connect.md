@@ -1,5 +1,5 @@
 ---
-title: LIVE DEMO: End-to-end API Management using IBM API Connect – Sami Koivisto
+title: LIVE DEMO End-to-end API Management using IBM API Connect – Sami Koivisto
 layout: post
 author: Jarkko Moilanen
 ---
